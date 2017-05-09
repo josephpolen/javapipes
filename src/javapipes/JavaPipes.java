@@ -1,6 +1,10 @@
 /*
-*                         Pipe Producer Consumer
-*                               Joe Polen
+*                        Pipe Producer-Consumer Example
+*                              Joseph Polen
+*
+*               This program demonstrates a method of process synchronization 
+*               using piped threads in Java.
+*
  */
 package javapipes;
 
